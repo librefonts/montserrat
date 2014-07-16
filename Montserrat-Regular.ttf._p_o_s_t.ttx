@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="0"/>
+    <underlineThickness value="0"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="softhyphen"/>
+      <psName name="Amacron"/>
+      <psName name="amacron"/>
+      <psName name="Abreve"/>
+      <psName name="abreve"/>
+      <psName name="Aogonek"/>
+      <psName name="aogonek"/>
+      <psName name="Dcaron"/>
+      <psName name="dcaron"/>
+      <psName name="Dcroat"/>
+      <psName name="Emacron"/>
+      <psName name="emacron"/>
+      <psName name="Edotaccent"/>
+      <psName name="edotaccent"/>
+      <psName name="Eogonek"/>
+      <psName name="eogonek"/>
+      <psName name="Ecaron"/>
+      <psName name="ecaron"/>
+      <psName name="Gcommaaccent"/>
+      <psName name="gcommaaccent"/>
+      <psName name="hbar"/>
+      <psName name="Itilde"/>
+      <psName name="itilde"/>
+      <psName name="Imacron"/>
+      <psName name="imacron"/>
+      <psName name="Iogonek"/>
+      <psName name="iogonek"/>
+      <psName name="IJ"/>
+      <psName name="ij"/>
+      <psName name="Jcircumflex"/>
+      <psName name="jcircumflex"/>
+      <psName name="Kcommaaccent"/>
+      <psName name="kcedilla"/>
+      <psName name="kgreenlandic"/>
+      <psName name="Lacute"/>
+      <psName name="lacute"/>
+      <psName name="Lcommaaccent"/>
+      <psName name="lcommaaccent"/>
+      <psName name="Lcaron"/>
+      <psName name="lcaron"/>
+      <psName name="Ldot"/>
+      <psName name="ldot"/>
+      <psName name="Nacute"/>
+      <psName name="nacute"/>
+      <psName name="Ncommaaccent"/>
+      <psName name="ncommaaccent"/>
+      <psName name="Ncaron"/>
+      <psName name="ncaron"/>
+      <psName name="Omacron"/>
+      <psName name="omacron"/>
+      <psName name="Ohungarumlaut"/>
+      <psName name="ohungarumlaut"/>
+      <psName name="Racute"/>
+      <psName name="racute"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="rcommaaccent"/>
+      <psName name="Rcaron"/>
+      <psName name="rcaron"/>
+      <psName name="Sacute"/>
+      <psName name="sacute"/>
+      <psName name="Tcedilla"/>
+      <psName name="tcedilla"/>
+      <psName name="Tcaron"/>
+      <psName name="tcaron"/>
+      <psName name="Umacron"/>
+      <psName name="umacron"/>
+      <psName name="Uring"/>
+      <psName name="uring"/>
+      <psName name="Uhungarumlaut"/>
+      <psName name="uhungarumlaut"/>
+      <psName name="Uogonek"/>
+      <psName name="uogonek"/>
+      <psName name="Wcircumflex"/>
+      <psName name="wcircumflex"/>
+      <psName name="Ycircumflex"/>
+      <psName name="ycircumflex"/>
+      <psName name="Zacute"/>
+      <psName name="zacute"/>
+      <psName name="Zdotaccent"/>
+      <psName name="zdotaccent"/>
+      <psName name="Scommaaccent"/>
+      <psName name="scommaaccent"/>
+      <psName name="uni021A"/>
+      <psName name="uni021B"/>
+      <psName name="dotlessj"/>
+      <psName name="firsttonechinese"/>
+      <psName name="uni0326"/>
+      <psName name="Wgrave"/>
+      <psName name="wgrave"/>
+      <psName name="Wacute"/>
+      <psName name="wacute"/>
+      <psName name="Wdieresis"/>
+      <psName name="wdieresis"/>
+      <psName name="Ygrave"/>
+      <psName name="ygrave"/>
+      <psName name="Euro"/>
+      <psName name="uni2113"/>
+      <psName name="estimated"/>
+      <psName name="oneeighth"/>
+      <psName name="threeeighths"/>
+      <psName name="fiveeighths"/>
+      <psName name="seveneighths"/>
+      <psName name="divisionslash"/>
+      <psName name="bulletoperator"/>
+      <psName name="zero.dnom"/>
+      <psName name="one.dnom"/>
+      <psName name="two.dnom"/>
+      <psName name="three.dnom"/>
+      <psName name="four.dnom"/>
+      <psName name="five.dnom"/>
+      <psName name="six.dnom"/>
+      <psName name="seven.dnom"/>
+      <psName name="eight.dnom"/>
+      <psName name="nine.dnom"/>
+      <psName name="zero.numr"/>
+      <psName name="one.numr"/>
+      <psName name="two.numr"/>
+      <psName name="three.numr"/>
+      <psName name="four.numr"/>
+      <psName name="five.numr"/>
+      <psName name="six.numr"/>
+      <psName name="seven.numr"/>
+      <psName name="eight.numr"/>
+      <psName name="nine.numr"/>
+    </extraNames>
+  </post>
+
+</ttFont>

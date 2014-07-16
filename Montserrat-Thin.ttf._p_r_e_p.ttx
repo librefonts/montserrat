@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      SVTCA[0]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      200
+      GT[ ]
+      IF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      1 1
+      INSTCTRL[ ]
+      EIF[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      1 2048 2048
+      MUL[ ]
+      WCVTF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      0 5
+      WS[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      23 1 0
+      LOOPCALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      0 5
+      WS[ ]
+      PUSHB[ ]  /* 4 values pushed */
+      10 8 1 8
+      LOOPCALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      0 5
+      WS[ ]
+      PUSHB[ ]  /* 4 values pushed */
+      20 6 1 8
+      LOOPCALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      0 6
+      WS[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      704
+      PUSHB[ ]  /* 2 values pushed */
+      1 9
+      LOOPCALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      0 7
+      WS[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      64 1 9
+      LOOPCALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 0
+      WCVTP[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      36 1
+      GETINFO[ ]
+      LTEQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      64
+      GETINFO[ ]
+      IF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 100
+      WCVTP[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      38 1
+      GETINFO[ ]
+      LTEQ[ ]
+      IF[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      2176 1 1088
+      GETINFO[ ]
+      MUL[ ]
+      EQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 0
+      WCVTP[ ]
+      EIF[ ]
+      EIF[ ]
+      EIF[ ]
+      EIF[ ]
+      PUSHB[ ]  /* 4 values pushed */
+      12 8 1 12
+      LOOPCALL[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      511
+      SCANCTRL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      4
+      SCANTYPE[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      2 0
+      WCVTP[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
