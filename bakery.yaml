@@ -1,0 +1,13 @@
+commit: HEAD
+process_files: [src/UFO/Montserrat-Regular.ufo, src/UFO/Montserrat-Light.ufo, src/UFO/Montserrat-Hairline.ufo,
+  src/UFO/Montserrat-Bold.ufo, src/UFO/Montserrat-Black.ufo, Montserrat-Light.ttf.ttx,
+  Montserrat-Black.ttf.ttx, Montserrat-Regular.ttf.ttx, Montserrat-Thin.ttf.ttx, Montserrat-Bold.ttf.ttx,
+  src/Montserrat-Regular.otf.ttx, src/Montserrat-Bold.otf.ttx, src/OTF/Montserrat-Light.otf.ttx,
+  src/OTF/Montserrat-Regular.otf.ttx, src/OTF/Montserrat-Black.otf.ttx, src/OTF/Montserrat-Hairline.otf.ttx,
+  src/OTF/Montserrat-Bold.otf.ttx, src/Montserrat-Bold-backup-fonttools-prep-gasp-TTF.sfd,
+  src/Montserrat-Regular-TTF.sfd, src/Montserrat-Regular-after-fonttools-prep-gasp-TTF.sfd,
+  src/Montserrat-Bold-after-fonttools-prep-gasp-TTF.sfd, src/Montserrat-Regular-backup-fonttools-prep-gasp-TTF.sfd,
+  src/Montserrat-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

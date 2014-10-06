@@ -1,0 +1,123 @@
+{
+  "name": "Montserrat",
+  "designer": "Julieta Ulanovsky",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 14615,
+  "fonts": [
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Montserrat-Regular-TTF.ttf",
+      "postScriptName": "Montserrat-Regular",
+      "fullName": "Montserrat-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Montserrat-Regular-after-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "Montserrat-Regular",
+      "fullName": "Montserrat-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Montserrat-Regular-backup-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "Montserrat-Regular",
+      "fullName": "Montserrat-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 900,
+      "filename": "Montserrat-Black.ttf",
+      "postScriptName": "Untitled",
+      "fullName": "Untitled",
+      "copyright": "Copyright (c) 2014 by Julieta Ulanovsky. All rights reserved."
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 250,
+      "filename": "Montserrat-Thin.ttf",
+      "postScriptName": "Montserrat-Thin",
+      "fullName": "Montserrat Hairline",
+      "copyright": "Copyright(c) 2014 by Julieta Ulanovsky. All rights reserved."
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Montserrat-Bold.ttf",
+      "postScriptName": "Untitled",
+      "fullName": "Untitled",
+      "copyright": "Copyright (c) 2014 by Julieta Ulanovsky. All rights reserved."
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 250,
+      "filename": "Montserrat-Hairline.ttf",
+      "postScriptName": "Untitled",
+      "fullName": "Untitled",
+      "copyright": "Copyright (c) 2014 by Julieta Ulanovsky. All rights reserved."
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Montserrat-Bold-after-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "Montserrat-Bold",
+      "fullName": "Montserrat-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Montserrat-Bold-backup-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "Montserrat-Bold",
+      "fullName": "Montserrat-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Montserrat-Regular.ttf",
+      "postScriptName": "Untitled",
+      "fullName": "Untitled",
+      "copyright": "Copyright (c) 2014 by Julieta Ulanovsky. All rights reserved."
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Montserrat-Bold-TTF.ttf",
+      "postScriptName": "Montserrat-Bold",
+      "fullName": "Montserrat-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Untitled",
+      "style": "normal",
+      "weight": 300,
+      "filename": "Montserrat-Light.ttf",
+      "postScriptName": "Untitled",
+      "fullName": "Untitled",
+      "copyright": "Copyright (c) 2014 by Julieta Ulanovsky. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-12-13"
+}
